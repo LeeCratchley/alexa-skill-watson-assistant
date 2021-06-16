@@ -1,5 +1,5 @@
 {
-  "ASSISTANT_APIKEY": "<add_assistant_apikey>",
-  "ASSISTANT_URL": "<add_assistant_url>",
-  "SKILL_ID": "<add_assistant_skill_id>"
+  "ASSISTANT_APIKEY": CJt2ck1v5vErDlXlQGRcN33UbUI0sRm2SMiB3pChgWCq,
+  "ASSISTANT_URL": https://gateway.watsonplatform.net/assistant/api/v2/assistants/a4ba61e4-3075-4213-bbc8-c159451e6429/sessions,
+  "SKILL_ID": 588ed88e-0cc7-4851-b5b8-c9190f4be4ca
 }
